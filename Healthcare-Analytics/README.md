@@ -37,14 +37,14 @@ The dashboard provides an interactive view of healthcare data through KPI cards,
 Users can explore the data by diagnosis, treatment type, age group, gender, and month to identify patterns and trends.
 
 Project Structure
-Healthcare-Analytics/
-│
-├── Dataset/
-├── Power-BI-File/
-├── DAX/
-├── Dashboard/
-├── Documentation/
-└── Insights/
+
+Healthcare-Analytics
+1. Dataset
+2. Power-BI-File
+3. DAX
+4. Dashboard
+5. Documentation
+6. Insights
 
 Skills Demonstrated
 - Data Cleaning and Transformation
