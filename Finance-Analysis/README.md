@@ -66,12 +66,17 @@ A donut chart breaking down expenses by category (House Rent, Groceries & Food, 
 ### Savings Distribution
 A donut chart showing how savings are allocated across Liquid Cash, Mutual Funds, Emergency Fund, and Fixed Deposit.
 
+![Savings Distribution ](Images/SAVINGS.jpeg)
+
 ### Year Filters
 Interactive filters for 2021, 2022, 2023, and 2024, enabling year-by-year comparison.
+
+![Year Slicer](Images/YEAR%20SLICER.jpeg)
 
 ### Financial Summary Table
 An annual summary table of Income, Expenses, and Savings values.
 
+![Finance Table](Images/TABLE.jpeg)
 ---
 
 ## 🔍 Key Insights
