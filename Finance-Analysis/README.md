@@ -56,7 +56,7 @@ A top-level summary of the overall financial position:
 ### Expenses Trend
 A line chart tracking how expenses changed from 2021 through 2024, making it easy to spot periods of rising or falling expenditure and unusual spending activity.
 
-![Expenses Trend](./images/expenses-trend.png)
+![Expenses Trend](Images/EXPENSES%20TREND.jpeg)
 
 ### Expense Distribution
 A donut chart breaking down expenses by category (House Rent, Groceries & Food, EMIs, Health, Leisure, Shopping, Travel), highlighting where most money is spent.
