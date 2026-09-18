@@ -59,5 +59,6 @@ Healthcare-Analytics
 Author
 Ibraheem Sule
 
-Senior Business Intelligence Developer
+### Senior Business Intelligence Developer
+
 Power BI | Microsoft Fabric | Azure | SQL | Enterprise Analytics
