@@ -56,7 +56,8 @@ Healthcare-Analytics
 - Healthcare Data Visualization
 - Business Insight Generation
 
-Author
+## Author
+
 Ibraheem Sule
 
 ### Senior Business Intelligence Developer
