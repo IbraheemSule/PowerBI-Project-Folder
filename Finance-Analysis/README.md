@@ -61,6 +61,8 @@ A line chart tracking how expenses changed from 2021 through 2024, making it eas
 ### Expense Distribution
 A donut chart breaking down expenses by category (House Rent, Groceries & Food, EMIs, Health, Leisure, Shopping, Travel), highlighting where most money is spent.
 
+![Expenses Distribution](Images/EXPENSES.jpeg)
+
 ### Savings Distribution
 A donut chart showing how savings are allocated across Liquid Cash, Mutual Funds, Emergency Fund, and Fixed Deposit.
 
