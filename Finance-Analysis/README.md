@@ -2,7 +2,7 @@
 
 An interactive dashboard for analyzing personal income, expenses, and savings over time , built to turn raw monthly financial data into clear, actionable insights.
 
-![Finance Dashboard Overview](./images/dashboard-overview.png)
+![Finance Dashboard Overview](./Images/FINANCE DASHBOARD.jpeg)
 
 ---
 
